@@ -1,6 +1,6 @@
 import { ContactButton, ContactItem } from "./Contact.styled";
 import PropTypes from 'prop-types';
-import { ContactTitle } from "../../App.styled";
+
 
 
   const ContactsList = ({ contacts,onDeleteContact}) => (
